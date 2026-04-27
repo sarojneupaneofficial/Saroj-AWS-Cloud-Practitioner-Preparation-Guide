@@ -6,7 +6,7 @@ I created this guide to organize important AWS concepts in one place and to make
 
 ---
 
-## 📘 Topics Covered
+## Topics Covered
 
 This repository includes notes on:
 
@@ -23,7 +23,7 @@ This repository includes notes on:
 
 ---
 
-## 🎯 Purpose of This Repository
+## Purpose of This Repository
 
 I built this repository:
 
@@ -34,6 +34,6 @@ I built this repository:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 Each practice exam file contains topic-wise preparation which will be helpful while giving the exam.
