@@ -36,8 +36,9 @@ I built this repository:
 
 ## Repository Structure
 
-Each practice exam file contains topic-wise preparation which will be helpful while giving the exam.
+Each practice exam file contains topic-wise preparation which will be helpful while giving the exam. I got my certificattion by doing these .
 
 # Author
 - Saroj Neupane
 - Data Engineer | Computer Engineer
+  
