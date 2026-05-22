@@ -41,4 +41,3 @@ Each practice exam file contains topic-wise preparation which will be helpful wh
 # Author
 - Saroj Neupane
 - Data Engineer | Computer Engineer
-- AI Enthusiast
